@@ -1,0 +1,14 @@
+*.o
+*.so
+*.RData
+*.nav
+*.aux
+*.log
+*.toc
+*.snm
+*.out
+*.swp
+myres
+node_modules
+ltxpng
+
